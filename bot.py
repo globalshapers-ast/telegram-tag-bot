@@ -14,7 +14,7 @@ users = [
     {"id": 500280475, "name": "Dana2"},
     {"id": 614649210, "name": "eclatant_aa"},
     {"id": 491966138, "name": "nailyamussayeva"},
-    {"id": 947989741, "name": "user947"},  # имя с точкой заменено
+    {"id": 947989741, "name": "alisher"},
     {"id": 422359565, "name": "Aizhan025"},
     {"id": 328952267, "name": "tomikandre"},
 ]
